@@ -1,5 +1,4 @@
-# 📊 Sales Dashboard (Python + Pandas + Streamlit + Plotly )
-![Dashboard Banner](https://img.icons8.com/color/96/000000/sales-performance.png)
+# 📊 Sales Dashboard (Python + Pandas + Streamlit + Plotly )    ![Dashboard Banner](https://img.icons8.com/color/96/000000/sales-performance.png)
 
 ## 🌟 Overview  
 The **Sales Dashboard** is a responsive and interactive web application built with **Python** **Streamlit**, **Pandas**, and **Plotly** **STreamlit Cloud**. It allows businesses and individuals to **analyze sales performance**, explore insights, and download filtered data with just a few clicks. The UI is designed with a **modern, minimal, and responsive layout** that automatically adjusts for **desktop, tablet, and mobile devices**.  
